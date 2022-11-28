@@ -19,6 +19,8 @@ Feel free to spend as much or as little time on the exercise as you like as long
 - You **must** include Unit tests.
 - Forked repo with full Git log of your process.
 - The design of the frontend is not important and is not judged in this test
+- A database that stores the JSON file in a well-formed way, with appropriate indexes.
+- A README to explain how to boot and run the end result.
 
 ## User Story
 Given **I am a user running the application,** when **I load the index page** then **I want to see a list of 25 properties that are for sale and unsold**.
