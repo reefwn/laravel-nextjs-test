@@ -1,0 +1,5202 @@
+[
+  {
+    "id": 29,
+    "title": "2 bedroom Condo for sale in Samut Prakan",
+    "description": "Unde sunt quam doloremque nihil ut velit et ipsum. Dolorum magnam voluptas vel ipsa impedit quo repudiandae. Praesentium sapiente libero harum occaecati beatae tempora.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 635933,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 87,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "170 Scarlett Valley Apt. 942"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 22,
+    "title": "1 bedroom Apartment for sale in Phuket",
+    "description": "Harum impedit consequuntur omnis magnam minima. Dignissimos illo quidem laboriosam et. Qui maiores eveniet rerum sit.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 149527,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 82,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "383 Maida Prairie Suite 453"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 93,
+    "title": "2 bedroom Villa for rent in Bangkok",
+    "description": "Blanditiis nobis veniam sit libero. Dolores quas suscipit animi aperiam et placeat non. Consequatur ea ex fugit libero qui quia qui.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 698456,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 63,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "1634 Karen Motorway"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 34,
+    "title": "5 bedroom Townhouse for rent in Chiang Mai",
+    "description": "Sit et in repellat. Ut facere doloribus eos saepe occaecati nulla. At veniam sit voluptatem inventore sit est.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 500231,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 70,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "25106 Marcella Road Apt. 018"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 2,
+    "title": "5 bedroom Townhouse for sale in Chiang Mai",
+    "description": "Qui porro fugiat unde et aliquid. Sapiente eos culpa sunt animi sed voluptatem doloremque. Dolores quos aut ex dolores deserunt rerum nihil.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 505248,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 127,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "21264 Bergnaum Knoll Apt. 561"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 6,
+    "title": "2 bedroom Apartment for sale in Chon Buri",
+    "description": "Ut alias amet saepe saepe amet nam. Quae qui aut in doloremque. Vel eligendi fugiat beatae et voluptates ut consequatur rerum.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 602009,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 146,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "64055 Dena Highway"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 53,
+    "title": "2 bedroom House for rent in Chiang Mai",
+    "description": "Aut impedit aut dolorem eos. Ducimus asperiores possimus nisi repudiandae expedita saepe impedit corrupti. Recusandae aut quod enim unde aut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 302597,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 124,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "51729 Heloise Square"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 9,
+    "title": "2 bedroom Condo for sale in Surat Thani",
+    "description": "Alias fuga qui ducimus expedita. Tempora et nobis suscipit eum voluptates saepe magnam. Soluta nostrum corrupti consequatur dolores et voluptatem qui.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 587278,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 90,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "2901 Frederick Shore Apt. 335"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 1,
+    "title": "2 bedroom Condo for sale in Chon Buri",
+    "description": "Aperiam id sit quas cum odit veniam. Ut dolorum maxime eum deserunt consectetur et molestiae. Illo nam cupiditate facilis rerum in omnis qui.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 585215,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 45,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "64097 Rodriguez Streets"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 90,
+    "title": "5 bedroom Apartment for rent in Chon Buri",
+    "description": "Rem autem et atque alias. Expedita temporibus iusto dicta reprehenderit nesciunt sit. Enim minus totam accusantium et earum.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 974710,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 145,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "17953 Brown Causeway"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 72,
+    "title": "2 bedroom Villa for rent in Phuket",
+    "description": "Vero incidunt expedita velit odit. Et dolorem distinctio dolorum exercitationem. Maiores nihil voluptates fugiat aut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 851006,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 66,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "581 Sadie Islands"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 22,
+    "title": "2 bedroom House for sale in Bangkok",
+    "description": "Qui distinctio enim laborum non perferendis quidem in aut. Et officiis quia iste animi id mollitia. In et minima reiciendis qui ducimus ducimus.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 147269,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 112,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "394 Pfannerstill Hills Apt. 471"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 35,
+    "title": "4 bedroom Condo for rent in Phuket",
+    "description": "Error doloremque illo velit voluptas vero nisi nostrum necessitatibus. Molestias voluptatem dolorem quae. Quaerat voluptas eos ea.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 811183,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 65,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "9166 Monserrat Lock"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 84,
+    "title": "4 bedroom House for rent in Samut Prakan",
+    "description": "Modi voluptas veniam id enim dicta impedit. Autem dolorem et laborum consequatur et natus quidem. Cum et pariatur esse culpa impedit dolores quis.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 917000,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 35,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "86420 Bosco Views Apt. 220"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 35,
+    "title": "2 bedroom Condo for sale in Bangkok",
+    "description": "Sapiente ea fugit rerum maiores. Enim excepturi id in ut. Cumque magnam deserunt eius quae pariatur velit et.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 732240,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 54,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "996 Kohler Drives"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 87,
+    "title": "1 bedroom Apartment for rent in Surat Thani",
+    "description": "Fuga velit accusantium esse est eos doloribus adipisci. Repudiandae quia commodi quis dolorem id. Quisquam ratione id aut praesentium cupiditate temporibus quo.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 131496,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 150,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "12584 Rachelle Crossing Suite 560"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 52,
+    "title": "2 bedroom House for rent in Chiang Mai",
+    "description": "Porro cum voluptatem aut. Molestiae commodi reprehenderit a quos ipsum nesciunt. Ut minus corrupti porro dolor magnam repudiandae tempora.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 458968,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 78,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "96468 Alexanne Field"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 9,
+    "title": "5 bedroom House for rent in Bangkok",
+    "description": "Et et ullam omnis ducimus in sed quam maiores. Optio quo quam est sunt delectus. Cumque et nam ut nisi delectus itaque.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 241284,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 83,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "987 Mitchel Islands"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 41,
+    "title": "4 bedroom Townhouse for rent in Surat Thani",
+    "description": "Dolores quam voluptate non doloribus occaecati odio. Mollitia consequuntur non neque libero. Illum facere rerum ipsam et est commodi labore dolorum.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 376735,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 33,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "10059 Wuckert Landing Suite 134"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 24,
+    "title": "1 bedroom Townhouse for sale in Surat Thani",
+    "description": "Qui qui deserunt quae enim sunt excepturi quidem tempora. Animi soluta non corporis omnis. Iste non quae autem voluptates aliquid.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 615398,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 65,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "509 Agnes Views"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 37,
+    "title": "2 bedroom Condo for sale in Chiang Mai",
+    "description": "Ea quidem reiciendis adipisci quam nihil et. Voluptas qui perspiciatis est impedit quia repellendus. Aliquid sit asperiores fugiat sunt aut sit et.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 804019,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 38,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "24868 Rosa Circles Apt. 055"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 42,
+    "title": "4 bedroom House for sale in Chon Buri",
+    "description": "Nostrum et rerum rerum nulla quisquam quis. Sint qui delectus rerum fugiat qui porro dolorem amet. Molestiae et iure natus non sunt quia id.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 280471,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 119,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "10761 Anjali Shoals"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 52,
+    "title": "1 bedroom Townhouse for sale in Bangkok",
+    "description": "Totam voluptate quaerat vel ut et. Quaerat veritatis quia eligendi illum. Sit repellat ut velit quo assumenda itaque.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 492337,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 132,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "13048 Schaden Path"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 2,
+    "title": "4 bedroom Villa for sale in Phuket",
+    "description": "Qui omnis expedita voluptatibus consequatur. Et assumenda et maxime adipisci est. Voluptatem voluptatum aliquid vitae distinctio quo facere.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 469990,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 129,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "5564 Doris Ports Suite 725"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 41,
+    "title": "1 bedroom Townhouse for sale in Surat Thani",
+    "description": "Eligendi repudiandae aliquid magni sit aliquam. Qui est nostrum molestiae temporibus id qui ut. Pariatur minima quasi quam et consequatur quia voluptas.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 829887,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 142,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "825 Wolf Forest Apt. 655"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 15,
+    "title": "4 bedroom Condo for sale in Surat Thani",
+    "description": "Rerum eaque natus eius at. Sed facilis voluptatibus cum quisquam excepturi natus velit. Sit ea et alias velit blanditiis ut.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 581341,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 117,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "85759 Kareem Island Apt. 966"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 8,
+    "title": "3 bedroom House for sale in Chon Buri",
+    "description": "Illum nam autem commodi. Quis quis omnis est quas. Voluptas consequatur possimus quae voluptatem vero aut esse.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 456447,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 46,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "185 Izaiah Key"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 42,
+    "title": "3 bedroom Villa for rent in Phuket",
+    "description": "Qui nemo autem voluptas mollitia. Sint harum laudantium ullam dicta. Id doloremque molestias voluptas.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 344527,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 137,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "84751 Feest Court Apt. 330"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 72,
+    "title": "3 bedroom Townhouse for sale in Chiang Mai",
+    "description": "Quidem soluta impedit eveniet dolorem natus eius placeat numquam. Repellat praesentium maiores neque necessitatibus. Quibusdam doloribus aut qui.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 815279,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 121,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "18648 Myriam Plains"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 24,
+    "title": "4 bedroom Condo for rent in Chiang Mai",
+    "description": "Atque quidem voluptatem beatae maiores. Sint ea incidunt ut consequatur autem doloremque. Fuga delectus expedita rerum repellendus voluptatem dolor eos exercitationem.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 557096,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 119,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "97814 Veum Glens"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 4,
+    "title": "3 bedroom Condo for rent in Bangkok",
+    "description": "Expedita similique sit commodi vitae. Aut placeat quasi recusandae est est et iusto. Modi ex incidunt perferendis qui.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 973859,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 73,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "478 Hackett Greens Suite 177"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 38,
+    "title": "3 bedroom Townhouse for sale in Samut Prakan",
+    "description": "Aut dolorem quia minus rerum placeat eos provident. Quam quo voluptas eius quia. Pariatur pariatur nam animi at aperiam.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 988459,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "area": 146,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "315 Heidi Lane"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 40,
+    "title": "1 bedroom Townhouse for sale in Chiang Mai",
+    "description": "Tenetur labore aut cumque et. Ut sint at earum amet nemo dolorum. Exercitationem eaque odit consequuntur voluptatem animi ipsa fugiat.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 709934,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 102,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "2310 Antone Junction Apt. 632"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 60,
+    "title": "2 bedroom Villa for rent in Chon Buri",
+    "description": "Qui est non et aut. Fugiat beatae vel soluta officiis aut reiciendis in. Inventore ut nulla eligendi odit quidem temporibus numquam aut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 923416,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 97,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "54404 Maximo Junction"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 14,
+    "title": "5 bedroom Condo for rent in Surat Thani",
+    "description": "Harum adipisci omnis voluptas perferendis porro. Doloribus corrupti corrupti suscipit quis magnam maiores. Neque molestiae rerum a et placeat labore aliquid sed.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 430186,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 54,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "211 Geovany Camp Suite 046"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 61,
+    "title": "2 bedroom House for rent in Samut Prakan",
+    "description": "Placeat ex ex dicta blanditiis ad. Sint aut velit et non unde. Qui provident nesciunt ratione sit repellat.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 669702,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 144,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "782 Lubowitz Ford"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 88,
+    "title": "5 bedroom Townhouse for rent in Bangkok",
+    "description": "Ut aliquid aut sit autem pariatur. Cum quia libero est sed voluptas. Aperiam magnam quia quas aut velit quaerat numquam.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 986328,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 88,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "265 Brooks Radial Suite 956"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 65,
+    "title": "4 bedroom Condo for rent in Bangkok",
+    "description": "Non aspernatur velit veritatis totam nihil voluptatem aut aliquam. Praesentium eius nihil quo quas natus. Quod odit est quia enim.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 818978,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 57,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "1640 McGlynn Unions Suite 445"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 19,
+    "title": "2 bedroom Condo for sale in Phuket",
+    "description": "Iusto possimus eos iusto illum. Aut repellendus veniam officia sequi quod. A aut debitis ipsam sint omnis hic quam.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 989177,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 54,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "287 Bogan Mount"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 21,
+    "title": "2 bedroom Condo for sale in Chon Buri",
+    "description": "Vitae sapiente omnis sint aliquam. Autem ullam at officia incidunt placeat qui nulla. Ea laboriosam maxime accusamus molestiae eius sunt.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 732958,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 62,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "773 Torey Valleys"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 13,
+    "title": "2 bedroom Apartment for sale in Samut Prakan",
+    "description": "Expedita enim minus illum facilis assumenda sunt non. Est eos magni error. Asperiores consequatur quasi cum dolor.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 339411,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 137,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "419 Giuseppe Vista Suite 668"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 37,
+    "title": "1 bedroom Villa for rent in Phuket",
+    "description": "Quia sed doloremque aspernatur. Sed reprehenderit ut iure ab. Voluptatum vero commodi repudiandae nesciunt autem neque.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 110888,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 97,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "755 Trenton Overpass"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 27,
+    "title": "2 bedroom Villa for sale in Chiang Mai",
+    "description": "Rerum dolore praesentium ullam quia. Ad velit provident ad sapiente ex alias explicabo. Non sit ipsa perspiciatis iure eum voluptatem qui aut.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 682873,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 149,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "5988 Alexandrea Forge Suite 270"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 9,
+    "title": "5 bedroom Apartment for sale in Chon Buri",
+    "description": "Delectus rerum repellat sit veniam accusantium ipsum esse. Voluptatem a eum dolorem qui ipsa. Aspernatur non labore voluptas aut odit unde.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 763129,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 36,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "5975 Robel Centers"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 19,
+    "title": "4 bedroom Villa for rent in Phuket",
+    "description": "Qui et pariatur iste magnam repellat. Aspernatur dolor qui dolorem fuga voluptas eum eaque. Quo enim rem praesentium.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 672824,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 47,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "67984 Kessler Parkways Suite 849"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 12,
+    "title": "3 bedroom Apartment for sale in Surat Thani",
+    "description": "Aliquam aperiam eaque ex. Doloremque ut et quae. Debitis facilis iste autem voluptas iste in est.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 266906,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 41,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "6540 Tillman Causeway"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 16,
+    "title": "1 bedroom Apartment for rent in Chon Buri",
+    "description": "Animi totam et est dolores libero numquam. Quaerat voluptates reiciendis molestiae sunt recusandae corporis. Officiis blanditiis totam nobis repellat praesentium dolorem.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 449404,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 93,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "968 Kling Route"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 80,
+    "title": "5 bedroom House for rent in Bangkok",
+    "description": "In dolorem et laboriosam voluptatum esse. Omnis molestiae iste rem eos. Ipsa voluptas nostrum architecto.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 318756,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 150,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "20604 McCullough Lakes"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 10,
+    "title": "5 bedroom Townhouse for sale in Phuket",
+    "description": "Beatae nostrum sit molestiae dolor. Et voluptates necessitatibus consectetur mollitia. Est rerum sint molestiae et perspiciatis.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 636769,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 143,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "97302 Spencer Estates"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 23,
+    "title": "4 bedroom House for rent in Bangkok",
+    "description": "Dolores exercitationem fugit sequi nam dignissimos nihil voluptas consequatur. Qui dolores temporibus rem praesentium cum animi unde. Id adipisci eveniet consequatur officia qui enim.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 832742,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 118,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "54354 Arielle Camp"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 13,
+    "title": "4 bedroom Apartment for rent in Surat Thani",
+    "description": "Beatae temporibus pariatur veritatis accusantium non perspiciatis temporibus quia. Quis est quibusdam consequuntur commodi velit aut similique. Voluptatum est omnis omnis doloribus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 744040,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 44,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "960 Quentin Skyway"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 53,
+    "title": "1 bedroom Townhouse for sale in Chiang Mai",
+    "description": "Maxime voluptatibus cupiditate est quae. Hic distinctio sit qui modi ex totam quo et. Occaecati ut debitis expedita consequatur.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 859826,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 91,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "80853 Stroman Harbors Apt. 131"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 66,
+    "title": "2 bedroom House for rent in Chon Buri",
+    "description": "Consequuntur eligendi nobis dolor voluptatem in. Ex corporis eveniet cupiditate nihil. Officia ea itaque eaque velit est.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 659046,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 55,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "4863 Chester Ridges Apt. 644"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 17,
+    "title": "3 bedroom Condo for rent in Chon Buri",
+    "description": "Quam perspiciatis voluptatem quia mollitia harum ad iste. Quis eius eveniet neque. Et exercitationem aperiam nesciunt ut et.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 636832,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 61,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "23218 Bruen Bypass Apt. 049"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 3,
+    "title": "1 bedroom Villa for sale in Samut Prakan",
+    "description": "Rerum et modi earum impedit dolor nam qui. Ut aut aut quam. Vel ex tenetur fuga non rerum.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 703146,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 50,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "32192 Vivianne Plain"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 47,
+    "title": "4 bedroom Villa for sale in Phuket",
+    "description": "Neque dolores blanditiis nemo. Consequatur eaque qui rem repellat modi ipsa. Odio nobis consequatur id illo voluptatem pariatur.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 851588,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 142,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "9839 Renner Meadows Apt. 486"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 46,
+    "title": "1 bedroom Apartment for sale in Surat Thani",
+    "description": "Eos provident dicta corrupti ipsum ut aut id inventore. Architecto sequi nam ut dicta earum. Minus et cum cum sapiente sed distinctio.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 932772,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 96,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "537 Strosin Spur"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 56,
+    "title": "5 bedroom Townhouse for sale in Samut Prakan",
+    "description": "Odio fuga atque ipsum quia odio et et. Neque dolorem voluptatum enim magni vel delectus. Incidunt aut aut corporis exercitationem vel est alias.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 841960,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 48,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "2760 Elton Loaf Apt. 778"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 94,
+    "title": "5 bedroom Apartment for rent in Phuket",
+    "description": "Consequatur voluptates suscipit ab non dolores eum. Asperiores iusto tempore tempore pariatur cupiditate et aspernatur. Vero fuga natus sequi qui qui.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 696327,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 127,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "28090 Spencer Club Suite 218"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 36,
+    "title": "1 bedroom Villa for sale in Chon Buri",
+    "description": "Aut iusto sequi voluptatem repellendus. Voluptatem et maxime dolor est adipisci delectus qui consequuntur. Qui eum quaerat enim pariatur odit molestiae id.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 187569,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 51,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "24388 Bergnaum Spur"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 58,
+    "title": "4 bedroom House for rent in Samut Prakan",
+    "description": "Explicabo minus culpa ab distinctio optio enim. Et maxime nisi ullam aut praesentium quod. Vel dolores quia aut quas voluptas optio.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 825690,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 127,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "202 Rohan Club Suite 230"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 62,
+    "title": "2 bedroom Villa for rent in Bangkok",
+    "description": "Deserunt earum cum saepe. Omnis incidunt aut est totam dolorum eius officiis. Labore dolorum dolorem dolores nulla.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 692435,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 102,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "414 Bailey Vista"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 27,
+    "title": "5 bedroom Townhouse for rent in Bangkok",
+    "description": "Qui qui ut eligendi omnis. Occaecati voluptatum molestiae tempora possimus. Cumque et rem repudiandae vero omnis nam.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 388558,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 57,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "2041 Heath Crest Apt. 945"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 55,
+    "title": "2 bedroom Villa for rent in Bangkok",
+    "description": "Voluptas aut et optio dolorum earum natus nam. Sed distinctio quam cupiditate modi veniam. Placeat est labore iste laboriosam illum vel vero voluptas.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 983468,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 140,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "5299 Glover Stravenue Apt. 684"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 54,
+    "title": "3 bedroom Condo for rent in Bangkok",
+    "description": "Ut recusandae quia et qui. Est quisquam animi quo ut architecto accusamus. Similique quam et quia similique qui.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 509462,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 134,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "309 Moore Valleys Suite 254"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 14,
+    "title": "4 bedroom Villa for sale in Samut Prakan",
+    "description": "Non soluta fugit atque. Omnis temporibus voluptates aut officiis dolorum eaque. Aut nostrum libero reprehenderit consequatur officia beatae vero.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 868809,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 111,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "5346 Berta Spur"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 1,
+    "title": "2 bedroom Condo for sale in Surat Thani",
+    "description": "Ex sint cupiditate veniam inventore sit hic. Ut at ut maiores facere tempore ipsam. Distinctio atque eum repellat ullam placeat enim odit.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 351241,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 106,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "81960 Jaskolski Village Apt. 127"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 3,
+    "title": "5 bedroom Condo for sale in Samut Prakan",
+    "description": "Deleniti nihil dolore ipsam in voluptatem perspiciatis quia. Voluptas incidunt dicta est rerum est officiis. Consectetur et ducimus adipisci consequatur deserunt voluptates aut.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 142572,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 66,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "2512 Ebert Centers"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 68,
+    "title": "4 bedroom House for rent in Chon Buri",
+    "description": "Beatae veniam quae qui maiores aliquam enim et. Qui culpa pariatur nemo tempore. Accusamus deserunt nobis ipsa ipsum animi rerum.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 481016,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 85,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "408 Ankunding Center"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 76,
+    "title": "1 bedroom House for sale in Samut Prakan",
+    "description": "Cumque omnis explicabo explicabo. Nam nobis ut et beatae neque sunt sint. Ut sed quidem aut non culpa laborum.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 641166,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 129,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "458 Kemmer Trafficway Suite 217"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 69,
+    "title": "5 bedroom Townhouse for rent in Chon Buri",
+    "description": "Aliquam qui enim sit voluptatum et quis. Sed accusantium dolores soluta et culpa. Assumenda ad consequatur unde cumque tempore enim.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 576971,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 73,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "677 Cole Flats"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 22,
+    "title": "2 bedroom Townhouse for rent in Samut Prakan",
+    "description": "Animi a temporibus id inventore dolorum. Pariatur eaque dolor consectetur vel nostrum eius beatae. Cupiditate expedita alias dolores quis.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 404705,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 126,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "5013 Mayer Trail Suite 897"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 32,
+    "title": "2 bedroom Apartment for sale in Surat Thani",
+    "description": "Rerum autem sit dolores tempore numquam et. Quidem officiis voluptatem dolores voluptatem odit porro eum ea. Voluptas est et porro magni corrupti.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 703285,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 99,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "7182 Favian Cliff"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 5,
+    "title": "4 bedroom Villa for sale in Chiang Mai",
+    "description": "Distinctio sapiente quia voluptas. Qui dolor ut tenetur quo. Ut itaque dolorem eius commodi harum culpa.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 154266,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 148,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "60875 Hackett Forks"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 97,
+    "title": "2 bedroom Townhouse for rent in Bangkok",
+    "description": "Debitis est quos pariatur rerum molestiae magnam. Officia non minima laborum nihil amet aut enim. Non aut ut amet sed asperiores.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 128708,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 138,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "25729 Schiller Unions"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 95,
+    "title": "1 bedroom Townhouse for rent in Chiang Mai",
+    "description": "Voluptatum voluptatem quam velit qui molestias fuga hic. Non aut non atque praesentium. Non porro id dignissimos earum.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 580820,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 126,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "873 Breana Shoal"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 48,
+    "title": "1 bedroom Townhouse for rent in Samut Prakan",
+    "description": "Tempore iste rerum dolorem amet. Recusandae ut debitis beatae quaerat quisquam quo. Et facilis voluptatibus similique nam.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 614785,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 80,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "77069 Kutch Via"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 49,
+    "title": "3 bedroom House for rent in Surat Thani",
+    "description": "Itaque doloribus dicta corrupti alias consequatur. Harum sunt dolore placeat explicabo est odit. Dolorem et odio velit quis quo ut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 329987,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 36,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "1984 Buckridge Rest"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 67,
+    "title": "3 bedroom Townhouse for sale in Surat Thani",
+    "description": "Ipsam sit quisquam aut molestiae et qui animi. Autem neque nihil et sed id fugit. Voluptatem impedit possimus earum.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 866502,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 74,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "55628 Kulas Lights Apt. 792"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 15,
+    "title": "1 bedroom Apartment for sale in Surat Thani",
+    "description": "Ratione sit excepturi esse repellendus omnis. Molestias nobis sed assumenda architecto natus voluptates sunt. Ut ullam vel modi esse quasi harum sit.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 768217,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 68,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "2341 Bahringer Alley"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 70,
+    "title": "3 bedroom House for sale in Surat Thani",
+    "description": "Molestias eum et quo sequi officiis nihil laudantium. Dolorem modi veritatis aut consectetur quia laborum. Ut tempore nihil enim in velit in nobis.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 889967,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 62,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "732 O'Kon Walk"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 49,
+    "title": "2 bedroom House for sale in Chiang Mai",
+    "description": "Soluta autem voluptas nobis sed. Qui unde ducimus dolores iure. Quis est dolores est praesentium ab.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 989188,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 138,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "969 McLaughlin Ville Apt. 513"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 26,
+    "title": "1 bedroom Condo for sale in Surat Thani",
+    "description": "Quia reiciendis minima libero labore molestias cupiditate. Vitae et maxime ut voluptatem et. Repudiandae necessitatibus minus necessitatibus in voluptatem vel.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 109281,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 119,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "322 Andy Plain Suite 234"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 34,
+    "title": "1 bedroom Condo for sale in Bangkok",
+    "description": "Excepturi illum sit sunt quaerat. Molestias eum voluptatibus corrupti. Assumenda veritatis sit sed error.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 387575,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "area": 60,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "3201 Gottlieb Crossroad Suite 282"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 98,
+    "title": "1 bedroom House for rent in Bangkok",
+    "description": "Debitis delectus quasi adipisci voluptas. Delectus ea ea tenetur cumque est magni dolores perspiciatis. Architecto quia aut fugit praesentium.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 569067,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 112,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "7901 Jennings Overpass"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 51,
+    "title": "4 bedroom Townhouse for rent in Bangkok",
+    "description": "Quos qui qui eaque. Deleniti debitis veniam temporibus magni. In blanditiis est expedita animi fugit.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 267889,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 71,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "3430 Jaylon Extension"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 43,
+    "title": "2 bedroom Townhouse for rent in Chon Buri",
+    "description": "Molestias aut laudantium numquam. Distinctio tempora suscipit aut voluptatem autem repellendus doloribus. Dolorem quia vero sit sed iste.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 670020,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 49,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "645 Daren Port"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 91,
+    "title": "5 bedroom Apartment for rent in Phuket",
+    "description": "Itaque eum dolores itaque quis tempore alias non. Quae esse est et veritatis provident doloribus deleniti quam. Velit temporibus consectetur consequatur repellendus reprehenderit expedita velit accusamus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 806266,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 117,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "80065 Jon Club Apt. 376"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 11,
+    "title": "1 bedroom Apartment for rent in Surat Thani",
+    "description": "Non numquam vero vero nam molestiae. Officiis rem enim quas dignissimos. Quae sit facilis nesciunt perspiciatis ut ea quo.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 111844,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 116,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "90221 Crona Oval Apt. 409"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 64,
+    "title": "3 bedroom Apartment for rent in Samut Prakan",
+    "description": "Necessitatibus similique aut eveniet et. Debitis aspernatur sint ut earum ad quisquam et. Nam recusandae amet delectus expedita.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 966603,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 120,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "1980 Collins Tunnel"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 82,
+    "title": "1 bedroom Condo for rent in Chon Buri",
+    "description": "Tempora ipsa illo facilis dolorum. Aperiam adipisci ex eveniet ipsum. Consequatur facere temporibus dignissimos.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 433389,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 100,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "604 Wunsch Fords"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 6,
+    "title": "5 bedroom Condo for sale in Chon Buri",
+    "description": "Nam aut in ipsam voluptatem. Facilis velit voluptatem voluptatem consequatur. Nemo nisi ipsa tenetur architecto minima cum tempore.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 465766,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 137,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "97350 Benny Parkways"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 28,
+    "title": "4 bedroom Condo for sale in Bangkok",
+    "description": "Odit officia architecto molestiae. Impedit nulla et odio explicabo consectetur quo incidunt nihil. Voluptatum officia nisi dolor dicta rerum totam.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 131790,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 117,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "29979 Terrell Trail"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 78,
+    "title": "4 bedroom Villa for rent in Surat Thani",
+    "description": "Non quia non expedita et atque et assumenda porro. Odio voluptatibus qui praesentium possimus dolor officia. Sequi voluptatum eaque distinctio facere aliquam.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 452917,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 34,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "7771 Gottlieb Mills"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 71,
+    "title": "1 bedroom Townhouse for rent in Bangkok",
+    "description": "Iste velit sit in assumenda et sint. Unde nemo perferendis quibusdam aut est enim. Quas et nihil et numquam vero quos ratione dolorum.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 368719,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 91,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "2514 Renner Burg Apt. 128"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 12,
+    "title": "3 bedroom Villa for sale in Phuket",
+    "description": "Quo sed quo temporibus quia unde exercitationem quos cupiditate. Voluptates qui nisi molestiae omnis magni et temporibus. Est voluptatem voluptatem excepturi atque et eligendi vitae.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 944395,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 74,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "9989 Caitlyn Bridge"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 33,
+    "title": "3 bedroom House for rent in Bangkok",
+    "description": "Quia iure assumenda laudantium asperiores. Consequuntur vel in ut quia. Non ea sit deserunt ab.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 851096,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "area": 138,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "59327 Ferry Estates Apt. 118"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 26,
+    "title": "5 bedroom Apartment for rent in Bangkok",
+    "description": "Deserunt deleniti laborum dignissimos nemo sunt. Enim rem dolor a est molestias nesciunt placeat. Aut pariatur nemo porro nemo et aperiam voluptatibus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 667924,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 2,
+    "area": 103,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "55423 Blake Stream Apt. 165"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 74,
+    "title": "5 bedroom Condo for rent in Samut Prakan",
+    "description": "Repellat error doloribus quidem velit nobis dolor. Sit iste iure dolor eius debitis rerum ut omnis. Repellendus et voluptas ullam velit.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 815486,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 90,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "683 Feeney Drive Suite 626"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 83,
+    "title": "2 bedroom Apartment for rent in Samut Prakan",
+    "description": "Deserunt amet laudantium possimus suscipit natus. Quia dolor veniam aliquam eius et possimus dolorem. Aliquid dolorem doloremque quam et.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 542836,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 139,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "710 Bruen Drives"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 57,
+    "title": "5 bedroom Villa for sale in Surat Thani",
+    "description": "Placeat harum aspernatur velit cumque exercitationem accusamus sequi. Culpa dolor voluptate sint et quam atque. Autem quaerat molestiae debitis debitis cupiditate quos sint.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 412001,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 126,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "75603 Hubert Extension"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 20,
+    "title": "2 bedroom House for sale in Surat Thani",
+    "description": "Voluptatum ducimus ea facilis consequatur corrupti sit. Voluptatem id esse et. Eius facere ullam et soluta quam.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 229009,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 58,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "36557 Kip River"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 56,
+    "title": "1 bedroom House for rent in Phuket",
+    "description": "Dolore deserunt quod eos molestiae dignissimos et. Corrupti earum necessitatibus reprehenderit voluptatem amet ea. Dolore ipsam adipisci saepe corporis error explicabo dolorem.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 195079,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 105,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "2730 Providenci Burgs Apt. 161"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 96,
+    "title": "5 bedroom House for rent in Bangkok",
+    "description": "Alias molestias repellendus voluptatem unde. Amet aut doloribus amet molestias animi. Unde nisi aliquam sapiente repellat aut ut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 474779,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "area": 143,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "358 Cruickshank Rapid Suite 732"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 8,
+    "title": "4 bedroom House for rent in Surat Thani",
+    "description": "Earum excepturi optio omnis saepe. Et et qui quae deleniti. Molestias accusantium aut fuga sint.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 475888,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "area": 88,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "7681 Donna Drive Apt. 209"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 3,
+    "title": "2 bedroom Villa for rent in Samut Prakan",
+    "description": "Nisi ea officia dolorum non sit rerum. Rerum unde perspiciatis veritatis nemo assumenda exercitationem consequatur. Labore qui in ab temporibus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 175794,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 71,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "9944 Wiza Neck Apt. 369"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 4,
+    "title": "1 bedroom Apartment for sale in Bangkok",
+    "description": "Voluptate voluptatem beatae accusantium ipsam et. Ea in voluptatem dolor doloremque maiores quasi praesentium officia. Dolorem ut ab odit id.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 127362,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "area": 139,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "3169 Laurence Drive"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 63,
+    "title": "5 bedroom House for sale in Chon Buri",
+    "description": "Occaecati nobis qui recusandae sed. Aut rerum labore sit mollitia qui iste. Repudiandae modi rerum sed in.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 414016,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 68,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "1453 Schneider Greens"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 7,
+    "title": "2 bedroom Townhouse for sale in Chon Buri",
+    "description": "Molestias excepturi ipsum aspernatur animi saepe odio. Voluptas atque voluptas doloribus nemo eveniet neque. Est vel laboriosam voluptatum tenetur architecto doloribus.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 499551,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 51,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "136 Zulauf Underpass"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 68,
+    "title": "3 bedroom House for sale in Surat Thani",
+    "description": "Eius omnis autem rerum quibusdam natus omnis. Non id recusandae omnis fugiat enim cupiditate. Officia magni illum quia sit.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 133236,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 145,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "344 Adele Parks"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 32,
+    "title": "4 bedroom Apartment for rent in Chon Buri",
+    "description": "Non et eveniet sint debitis placeat voluptas amet ullam. Amet distinctio assumenda perspiciatis quasi laudantium fuga. Reiciendis laboriosam veniam aut voluptatibus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 412370,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 91,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "1219 McKenzie Mountain Suite 690"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 17,
+    "title": "2 bedroom Townhouse for sale in Samut Prakan",
+    "description": "Quae delectus inventore aspernatur repellat. Inventore vitae magni itaque odit repellendus molestiae. Velit tempore autem et harum voluptatum ut.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 939000,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "area": 143,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "5908 Norwood Highway"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 77,
+    "title": "5 bedroom Apartment for rent in Phuket",
+    "description": "Autem consectetur in natus voluptas quia. Temporibus harum voluptatibus ut rerum dignissimos accusantium. Atque sunt inventore aut voluptas eaque.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 245938,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 34,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "65360 Raoul Loaf Suite 990"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 14,
+    "title": "1 bedroom Townhouse for sale in Surat Thani",
+    "description": "Rerum id non eum dicta ab voluptatem. Aut voluptatibus magni consequatur sed tempore. Aliquam et laborum maxime totam architecto vitae.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 155599,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 124,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "61325 Dariana Drives"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 71,
+    "title": "5 bedroom House for sale in Samut Prakan",
+    "description": "Architecto qui voluptates tempora sint laboriosam. Minima expedita est at velit earum rerum. Et quae quos id repellat aut.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 573240,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 146,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "7927 Henri Shores Apt. 126"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 81,
+    "title": "4 bedroom Townhouse for rent in Samut Prakan",
+    "description": "Dolores iste architecto incidunt et esse et qui illo. Assumenda ut animi est sit ullam. Saepe aut quam necessitatibus debitis accusantium asperiores.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 825265,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 107,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "94492 Gutkowski Neck"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 99,
+    "title": "2 bedroom House for rent in Samut Prakan",
+    "description": "Unde et fuga minima est ut praesentium vitae ratione. Non facere ut quo ut et. Enim aut quis dolorem velit facilis.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 156855,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 71,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "432 Johns Shore Suite 405"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 39,
+    "title": "1 bedroom Condo for sale in Chiang Mai",
+    "description": "Sunt sunt blanditiis delectus saepe modi architecto. Odit itaque odit quasi et. Vitae autem aut dignissimos aliquid.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 235956,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "area": 120,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "74453 Megane Roads Suite 241"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 23,
+    "title": "4 bedroom Villa for sale in Phuket",
+    "description": "Dicta sed inventore quas vel et a alias. Officiis odio rerum quae officia dolores exercitationem a. Amet est quasi debitis quis quia.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 705556,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 125,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "30004 Hertha Ville Suite 397"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 46,
+    "title": "1 bedroom House for rent in Surat Thani",
+    "description": "Rerum voluptas qui perspiciatis eaque. Et vitae repellendus dolorem dolores. Quos exercitationem rerum ut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 645692,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 58,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "87220 Schamberger Cliffs"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 30,
+    "title": "3 bedroom Condo for sale in Bangkok",
+    "description": "Quibusdam enim culpa sed. Doloremque distinctio dignissimos porro quaerat. Autem et nisi in quam.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 687531,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "area": 33,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "4637 Georgette Ville"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 6,
+    "title": "4 bedroom Townhouse for rent in Chon Buri",
+    "description": "Quia fugit est qui. Ut dolor ullam laboriosam aut. Deserunt ut nihil neque.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 115457,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 140,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "36042 Lilian Ports Suite 850"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 75,
+    "title": "1 bedroom Condo for rent in Samut Prakan",
+    "description": "Similique iste impedit deserunt est. Ut mollitia et velit odit quia voluptatem sit facere. Delectus sequi fuga enim a est.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 375158,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "area": 87,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "473 Cara Junction"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 43,
+    "title": "1 bedroom Villa for sale in Chiang Mai",
+    "description": "Sed et officia enim non cumque molestias suscipit. Ut molestias voluptas recusandae rerum quas voluptatum delectus aut. Ullam doloremque et exercitationem facilis laborum ad.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 361963,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 142,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "7501 Adam Crossing"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 50,
+    "title": "3 bedroom House for rent in Surat Thani",
+    "description": "Et autem perspiciatis aut quia consequatur id exercitationem. Sint debitis aut sit laboriosam eveniet nemo. Maxime voluptates sit incidunt modi doloribus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 734591,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "area": 108,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "6774 Blick Lake Apt. 684"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 5,
+    "title": "5 bedroom Apartment for rent in Bangkok",
+    "description": "Alias fuga numquam id exercitationem qui culpa. Eos impedit incidunt alias ipsa asperiores. Ut quod perspiciatis enim voluptatibus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 696880,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 60,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "460 Herman View"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 67,
+    "title": "2 bedroom Apartment for rent in Chiang Mai",
+    "description": "Sint qui tempora repudiandae ullam quis. Laborum vitae exercitationem cumque ad adipisci et. Maxime dolorem ipsum necessitatibus ex aut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 385537,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 113,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "66032 Camron Burgs Apt. 973"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 7,
+    "title": "1 bedroom Townhouse for sale in Samut Prakan",
+    "description": "Exercitationem ut illum fugiat. Expedita ipsa facere asperiores fuga et quasi. Doloribus rerum error architecto nemo mollitia beatae autem.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 740598,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 111,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "680 Terry Station Apt. 039"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 10,
+    "title": "2 bedroom Townhouse for rent in Chon Buri",
+    "description": "Omnis voluptatem libero explicabo quos sit culpa. Tenetur deserunt voluptatem voluptas incidunt aliquam odit quibusdam praesentium. Molestiae nesciunt iusto omnis.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 841903,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 98,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "316 Shanahan Mews"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 18,
+    "title": "4 bedroom Villa for sale in Chiang Mai",
+    "description": "Officia enim error et ratione culpa facilis mollitia. Ut consectetur et consequuntur vero ipsam aut. Cumque architecto totam mollitia optio eum.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 118289,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 85,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "674 Lila Ports Suite 530"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 76,
+    "title": "1 bedroom Villa for rent in Samut Prakan",
+    "description": "Est rem ipsa dolore natus sint fugit id laborum. Consequatur unde quaerat qui suscipit. Iusto est quam nisi illo veritatis sapiente aut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 958569,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "area": 90,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "553 Baylee Heights"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 13,
+    "title": "4 bedroom Townhouse for sale in Chiang Mai",
+    "description": "Est impedit minus non tenetur voluptate non distinctio dolorum. Dolorem sit voluptatum porro placeat porro. Quia molestias molestias quisquam cumque sit laudantium ratione.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 960985,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 137,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "38727 Vaughn Fall"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 17,
+    "title": "3 bedroom Condo for sale in Chiang Mai",
+    "description": "Pariatur id debitis qui reprehenderit quidem sed eos. Eos assumenda natus nam qui voluptate. Dolores quia numquam perferendis ullam earum.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 353300,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 42,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "446 Emanuel Mount Suite 947"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 19,
+    "title": "1 bedroom House for sale in Chon Buri",
+    "description": "Autem soluta consequatur voluptatum quos aliquam. Nobis rerum qui id commodi. Laudantium est veritatis dolore et consequatur sed accusantium.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 174707,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 58,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "405 Janet Motorway"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 28,
+    "title": "4 bedroom Townhouse for rent in Chiang Mai",
+    "description": "Nobis harum qui tenetur. Facere asperiores dolorem aliquid voluptas dolor fugiat sed. Quo dolor et ut eos iste sed.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 188097,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 105,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "64063 Ashlynn Summit Suite 905"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 16,
+    "title": "4 bedroom Villa for sale in Chiang Mai",
+    "description": "Perspiciatis excepturi eos debitis vel. Explicabo et iste qui magni eveniet itaque. Aliquam maxime quo animi aspernatur molestias ut quae.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 522014,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 100,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "84554 Kari Drives"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 45,
+    "title": "5 bedroom Villa for sale in Samut Prakan",
+    "description": "Quia harum quia nisi deserunt sunt. Aperiam molestias aut nobis in ea quia. Ullam nobis sed facere sint autem et vel.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 462014,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 46,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "58391 Forest Points Apt. 764"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 18,
+    "title": "1 bedroom House for rent in Chon Buri",
+    "description": "Omnis omnis architecto ut recusandae et impedit. Quam eius veritatis explicabo ut ut unde perspiciatis. Tempora repellendus non ea earum.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 181418,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 68,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "663 Piper Route"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 25,
+    "title": "1 bedroom Villa for rent in Surat Thani",
+    "description": "Reprehenderit ab minus qui temporibus esse. Inventore ex at rerum eum. Ut non inventore eos possimus ut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 183653,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "area": 40,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "52345 Rippin Prairie Apt. 397"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 33,
+    "title": "1 bedroom Apartment for sale in Samut Prakan",
+    "description": "Velit iure repellendus voluptatem et autem accusamus libero. Est placeat consectetur eius voluptate enim eum modi. Consectetur ipsa non omnis dolor sed.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 717939,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 51,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "9929 Antoinette Port Suite 243"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 51,
+    "title": "3 bedroom Townhouse for sale in Phuket",
+    "description": "Unde ea illo facere reprehenderit repellat. Veritatis natus et ut quas quis ut non. Explicabo tempora quam commodi.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 467215,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 149,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "40489 Jacobs Flat"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 70,
+    "title": "2 bedroom Apartment for rent in Samut Prakan",
+    "description": "Exercitationem iure sint quis ullam voluptas voluptatem qui aut. Totam possimus et maxime quis voluptatem. Veritatis aliquid dignissimos praesentium quasi dolorem.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 802688,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 57,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "14675 Ayden Branch Apt. 869"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 31,
+    "title": "1 bedroom Villa for rent in Chon Buri",
+    "description": "Nesciunt dolores iure consequuntur quisquam. Dolorum dignissimos totam velit accusamus magni adipisci rerum. Hic facere recusandae est et.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 739263,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 38,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "16649 Jakubowski Union"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 63,
+    "title": "1 bedroom Villa for rent in Surat Thani",
+    "description": "Nam eveniet unde officia sint et ratione. Nulla et a qui impedit et dolor. Aliquam impedit nihil qui incidunt similique.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 357476,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 120,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "48459 Senger Circles Apt. 499"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 45,
+    "title": "3 bedroom House for rent in Surat Thani",
+    "description": "Consectetur exercitationem quidem velit autem blanditiis aut ea. Ex fuga inventore cumque aspernatur odio ut est. Mollitia corporis hic corporis esse harum.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 125453,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 33,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "26824 Anastasia Freeway"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 38,
+    "title": "1 bedroom Townhouse for rent in Bangkok",
+    "description": "Dolorum nostrum id eaque est. Eius maiores omnis accusantium modi at ab. Ratione accusantium autem voluptas ut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 972241,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 68,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "78683 Lebsack Valleys"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 44,
+    "title": "3 bedroom Townhouse for sale in Surat Thani",
+    "description": "Est optio odio voluptas fugit eum. Quibusdam nihil molestiae temporibus quis odit debitis. Eaque dolores quia dolorem in omnis voluptas aut.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 284848,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 133,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "772 Juvenal Stream"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 7,
+    "title": "1 bedroom House for rent in Phuket",
+    "description": "Tempora officia repellendus quis beatae nulla. Aut voluptatem sit hic fugiat. Quae quis consequatur sit sequi.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 321255,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 64,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "11183 Jacinto Square"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 40,
+    "title": "5 bedroom Villa for rent in Chiang Mai",
+    "description": "Blanditiis officia sunt id earum. Nihil aliquam omnis quidem sed voluptates labore ea. Deserunt omnis vel quos accusantium voluptatibus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 728321,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 43,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "7495 Ayla Drive"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 59,
+    "title": "2 bedroom Apartment for sale in Surat Thani",
+    "description": "Alias aut aliquam sunt blanditiis pariatur ea eum quis. Est impedit unde architecto sapiente distinctio itaque eaque. Quos ullam eos dolorem possimus est.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 313248,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "area": 67,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "496 Gulgowski Mountains"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 54,
+    "title": "3 bedroom House for sale in Bangkok",
+    "description": "Autem omnis sapiente voluptatibus eos. Aspernatur possimus magnam asperiores iusto. Magnam et quis dignissimos nobis non repudiandae temporibus.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 767355,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 112,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "898 Koch Crest"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 15,
+    "title": "2 bedroom House for rent in Phuket",
+    "description": "Dolorem esse rerum laborum. Nostrum occaecati hic dicta. Recusandae nihil tenetur ullam.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 925259,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 56,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "1610 Douglas Gardens"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 47,
+    "title": "3 bedroom Apartment for rent in Samut Prakan",
+    "description": "Exercitationem similique at est neque nemo ea commodi exercitationem. Nam aut porro consectetur exercitationem recusandae fugiat nulla aliquid. Incidunt voluptatem laborum et.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 752082,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 1,
+    "area": 97,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "34460 Vladimir Mills Suite 463"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 10,
+    "title": "1 bedroom House for sale in Phuket",
+    "description": "Est adipisci itaque vero et iste dignissimos quae. Aut quam veniam quia porro rerum minus. Facere necessitatibus necessitatibus dolorum mollitia.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 713127,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 73,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "6224 Kaley Knolls"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 2,
+    "title": "5 bedroom Townhouse for rent in Bangkok",
+    "description": "Aut consequuntur eum repudiandae cum consequatur ad reprehenderit. Velit cumque sit itaque doloremque exercitationem inventore. Non ex ipsam est exercitationem ut ut blanditiis.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 916268,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 104,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "20655 O'Kon Run Apt. 396"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 44,
+    "title": "1 bedroom Townhouse for rent in Bangkok",
+    "description": "Sequi iusto omnis nisi alias dolorem illo. Non nisi sunt possimus eligendi id ut dolorem. Eum repudiandae veritatis quos aliquam qui et facere minus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 175532,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 54,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "473 Lynn Locks Suite 178"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 21,
+    "title": "4 bedroom House for sale in Phuket",
+    "description": "Amet assumenda et quo numquam eos harum adipisci. Qui tenetur voluptas quidem laudantium et aut velit. Quae maxime doloremque aut sit saepe itaque odio.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 684100,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 66,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "66237 Beier Plain Suite 984"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 73,
+    "title": "5 bedroom House for rent in Surat Thani",
+    "description": "Ad ea non sequi eos perspiciatis. Nihil perferendis omnis veniam consequatur. Accusantium est dolor provident minus nulla et.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 512816,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 59,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "1082 Gussie Pass Apt. 068"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 85,
+    "title": "3 bedroom House for rent in Chon Buri",
+    "description": "Sit adipisci quis placeat fuga libero ut. Atque nesciunt magnam quia qui. Harum aut libero mollitia quis ad.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 175096,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 73,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "1850 Pedro Port"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 18,
+    "title": "2 bedroom House for sale in Surat Thani",
+    "description": "Ut et iste quos quo dolores est iure. Voluptatem numquam repellat aspernatur iure officiis quam odit voluptatum. Fugit ut dolorem dolor dolore velit vel.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 727186,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 80,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "13505 Krajcik Inlet"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 29,
+    "title": "1 bedroom Townhouse for rent in Chon Buri",
+    "description": "Omnis est in sequi temporibus quam. Labore incidunt nihil qui et voluptatibus quam ea. Quidem voluptatem distinctio et est itaque veritatis animi ut.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 671138,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 47,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "682 Walter Inlet Suite 529"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 1,
+    "title": "3 bedroom Villa for rent in Chon Buri",
+    "description": "Rem dolor cumque distinctio ea. Officia molestiae doloremque libero provident quo est. Quia iste saepe aperiam doloribus commodi.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 868812,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 5,
+    "area": 133,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "762 Kovacek Centers Apt. 135"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 58,
+    "title": "1 bedroom Apartment for sale in Chiang Mai",
+    "description": "Perferendis laboriosam voluptate nihil. Assumenda voluptatum atque a id reprehenderit fuga sed tenetur. Pariatur amet id repellendus voluptatem neque.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 805555,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 71,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "997 Rice Ways Suite 708"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 86,
+    "title": "4 bedroom Townhouse for rent in Chon Buri",
+    "description": "Itaque inventore esse est et unde est. Cupiditate omnis dolorem facere nemo velit vero. Enim ratione iure suscipit perferendis.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 466361,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 82,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "4764 Marianne Field"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 61,
+    "title": "1 bedroom House for sale in Bangkok",
+    "description": "Error autem sint rerum aut hic. Dolorum occaecati voluptatem aspernatur vitae rerum dolores. Ut iure ex omnis sint asperiores dolores.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 897113,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 2,
+    "area": 101,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "6121 Gerhard Highway Suite 328"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 50,
+    "title": "2 bedroom Apartment for sale in Bangkok",
+    "description": "Et omnis sunt vel veritatis consectetur. Repellat dolorum at doloribus autem ducimus magni. Aspernatur sunt dolore quas adipisci est eum possimus.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 479435,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 89,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "3140 Rice Vista Apt. 591"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 62,
+    "title": "2 bedroom Condo for sale in Bangkok",
+    "description": "Nihil architecto qui quidem molestiae ut doloremque blanditiis. Mollitia ipsa corporis similique repellendus. Laborum similique ea reprehenderit.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 135681,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "area": 131,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "579 Marquis Ridges Apt. 155"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 66,
+    "title": "2 bedroom Apartment for sale in Bangkok",
+    "description": "Sed eum quas molestias rem iusto iste. Sapiente pariatur officia architecto odit fugit ratione facilis iste. Consequatur exercitationem id et id.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 754235,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 148,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "35032 Cormier Mountains"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 39,
+    "title": "2 bedroom Condo for rent in Surat Thani",
+    "description": "Similique totam non perferendis id sint quia minima. Amet quo occaecati totam error odit error. Dicta ex laborum ut laudantium.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 948990,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 117,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "227 Osinski Turnpike"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 8,
+    "title": "5 bedroom Villa for sale in Chiang Mai",
+    "description": "Magnam earum esse voluptatem fuga voluptatem eos saepe. Debitis aspernatur consequatur quia dolore. Placeat autem perspiciatis voluptas est nisi odit molestiae.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 695865,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 83,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "923 O'Keefe Island"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 92,
+    "title": "3 bedroom Condo for rent in Surat Thani",
+    "description": "Non doloribus dolores a voluptatem ab. In quia culpa non sint. Suscipit dolor cupiditate rem tempora tempora nemo in blanditiis.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 666217,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 105,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "19060 Gabrielle Ports"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 23,
+    "title": "4 bedroom House for sale in Bangkok",
+    "description": "Nostrum est vitae voluptatem iusto aliquam id odio. Voluptas veritatis eum rerum blanditiis quae quo et. Rerum delectus est debitis omnis.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 885790,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 126,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Bangkok",
+      "street": "108 Rigoberto Curve"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 4,
+    "title": "4 bedroom Apartment for sale in Samut Prakan",
+    "description": "Dolor deserunt iure dolor fugit voluptatum. Odit id voluptatem accusantium aut omnis voluptatem. Rerum ut accusamus incidunt deleniti harum adipisci.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 314682,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "area": 93,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "14228 Dorothy Station Apt. 224"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 21,
+    "title": "5 bedroom Apartment for rent in Samut Prakan",
+    "description": "Est est quas autem ipsa. Consectetur commodi deserunt qui corporis in. Fuga eos qui non velit dolorum autem.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 331689,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "area": 119,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "590 Prohaska Camp Suite 977"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 60,
+    "title": "3 bedroom Apartment for sale in Phuket",
+    "description": "Officiis nobis impedit doloremque ea dignissimos fuga optio quia. Aut debitis accusantium aut quo. Omnis ut voluptates qui necessitatibus sunt.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 981093,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "area": 52,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "8574 Arielle Avenue Suite 692"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 65,
+    "title": "1 bedroom Condo for sale in Surat Thani",
+    "description": "Veniam temporibus ex laboriosam itaque assumenda qui. Natus voluptate autem aliquam consequatur totam odit molestiae. Quo et non autem unde.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 200710,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "area": 104,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "59234 Raynor Prairie"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 89,
+    "title": "5 bedroom House for rent in Chiang Mai",
+    "description": "Aut deleniti repellendus eveniet est maxime rerum quas. Possimus laboriosam quia incidunt in et. Sapiente cumque porro at et.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 252904,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 34,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "493 Tiara Villages Suite 001"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 20,
+    "title": "1 bedroom Apartment for rent in Surat Thani",
+    "description": "Ullam vero voluptates laudantium voluptates ipsum. Omnis culpa enim facilis voluptates delectus similique harum. Laboriosam repudiandae autem animi odio.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 922995,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 88,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "53593 Mossie Light"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 24,
+    "title": "4 bedroom Townhouse for sale in Chiang Mai",
+    "description": "Sed distinctio suscipit est est aut praesentium quas. Sit commodi molestiae distinctio. Voluptatibus et sit nulla molestiae maiores placeat voluptatem.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 546702,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 96,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "1924 Cordie Groves"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 20,
+    "title": "3 bedroom Apartment for sale in Chiang Mai",
+    "description": "Quibusdam optio voluptate velit sit quaerat non rerum. Est dolor qui perferendis beatae ipsa nihil totam. Quos at fugiat voluptatibus alias.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 767164,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 135,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "91821 Corbin Hills"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 57,
+    "title": "5 bedroom House for rent in Chiang Mai",
+    "description": "Velit temporibus repellat rerum ratione. Facere deserunt autem voluptatem dolores. Ducimus facere fuga accusantium quas quis dicta est.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 265176,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 134,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "9528 Rupert Fork"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 73,
+    "title": "1 bedroom House for sale in Chiang Mai",
+    "description": "Fuga voluptatem saepe laboriosam dolorem est dolorum. Aut dolore voluptate et et vel. Soluta rerum quis ducimus ullam tempore quaerat qui.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 204486,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 79,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "9399 Weimann Heights Apt. 849"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 69,
+    "title": "4 bedroom Townhouse for sale in Surat Thani",
+    "description": "Eius fugit excepturi quia incidunt id voluptate optio. Officiis non dolorem enim eligendi quo. Ea maxime est libero.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 488634,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 43,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "388 Kallie Route"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 59,
+    "title": "3 bedroom Villa for rent in Surat Thani",
+    "description": "Blanditiis voluptatem explicabo expedita explicabo doloribus est aut. Odit ut exercitationem reiciendis rerum blanditiis id est. Placeat alias ad et aliquid.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 780630,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 107,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "39267 Hettinger Brook"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 74,
+    "title": "5 bedroom House for sale in Phuket",
+    "description": "Unde est error iusto natus sed sed aliquam. Sint eos accusantium natus similique sunt. Aliquam culpa doloribus neque est architecto quos.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 611051,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 5,
+    "bathrooms": 1,
+    "area": 94,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "7928 Fausto Drives Apt. 529"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 5,
+    "title": "1 bedroom Townhouse for sale in Chon Buri",
+    "description": "Impedit quo quia sint quisquam. Autem quibusdam et dicta omnis voluptates possimus. Aperiam labore maxime accusamus excepturi.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 848593,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 1,
+    "bathrooms": 4,
+    "area": 124,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "714 Beer Center"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 12,
+    "title": "1 bedroom Villa for rent in Phuket",
+    "description": "Cum tenetur aut quam repudiandae. Consequatur consectetur est illum officia. Quia repellendus praesentium ab dolores voluptatem tempore.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 809929,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 3,
+    "area": 42,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "6584 Jenkins Loop"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 79,
+    "title": "4 bedroom Townhouse for rent in Chon Buri",
+    "description": "Voluptas et voluptas et veniam facere est aut vero. Enim id omnis aspernatur. Omnis perferendis voluptate qui atque eum nemo et debitis.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 133798,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "area": 126,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "7876 Giovanna Ford Apt. 187"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 31,
+    "title": "2 bedroom House for sale in Chon Buri",
+    "description": "Ipsam quaerat et voluptatum labore voluptatum consequatur magni similique. Saepe animi eum dignissimos et sunt et quam. In voluptas et molestias quisquam sit quo aliquam.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 737524,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "House",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "area": 67,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "286 Billy Centers"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 100,
+    "title": "4 bedroom Condo for rent in Chiang Mai",
+    "description": "Quos ex mollitia mollitia maiores odit. Quia temporibus deserunt deserunt aliquid. Quia incidunt doloribus modi alias molestiae et.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 217596,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 59,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "73873 Hunter Burgs Suite 062"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 11,
+    "title": "5 bedroom Townhouse for sale in Samut Prakan",
+    "description": "Dolore quae ut eligendi dolores voluptatem. Ut ex et accusantium nemo quod accusantium sed. Commodi suscipit corporis et perspiciatis autem perspiciatis.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": true,
+    "price": 461298,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "area": 47,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "23507 Arjun Ports"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 25,
+    "title": "5 bedroom Villa for sale in Chiang Mai",
+    "description": "Quo molestias odit harum magni assumenda architecto esse. Quis illo iusto fugit ab cupiditate eum error. Voluptatum debitis deleniti vel possimus exercitationem deleniti.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 525811,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "area": 115,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "74319 Kertzmann Camp"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 16,
+    "title": "2 bedroom Apartment for sale in Phuket",
+    "description": "Recusandae voluptatibus velit eum repudiandae. Esse occaecati ut praesentium nobis sapiente doloribus pariatur. Rem rerum et aspernatur facilis consequatur.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 263062,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 5,
+    "area": 89,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Phuket",
+      "street": "740 Zoey Hollow"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 30,
+    "title": "4 bedroom Condo for rent in Samut Prakan",
+    "description": "Recusandae in reprehenderit quia tempora distinctio repudiandae architecto. Est quasi esse cumque dolorem quia totam delectus. Doloremque veritatis non velit voluptatem quis ut necessitatibus.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 899463,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 4,
+    "bathrooms": 5,
+    "area": 78,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "5141 Dibbert Land Suite 491"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 11,
+    "title": "3 bedroom Condo for sale in Samut Prakan",
+    "description": "Nam voluptate quis accusantium eius impedit voluptatibus sunt. Et ad rerum necessitatibus id nihil vitae perferendis. Temporibus cum numquam omnis voluptatem.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 993580,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "area": 57,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "4601 Bechtelar Tunnel Suite 227"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 75,
+    "title": "3 bedroom Apartment for sale in Chon Buri",
+    "description": "Quo quidem voluptatem molestiae tempora ut eum. Facere doloremque perspiciatis at. Tenetur veniam placeat autem quo.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 555875,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "area": 56,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chon Buri",
+      "street": "18528 Treutel Grove Suite 317"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 55,
+    "title": "4 bedroom Condo for sale in Samut Prakan",
+    "description": "Ut deserunt aut dolorem amet distinctio cum optio. Pariatur magni ducimus dicta et dolorem. Placeat officiis nostrum totam ea quos.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 555030,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Condo",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "area": 51,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "607 Langosh Pike"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 36,
+    "title": "5 bedroom Apartment for rent in Chiang Mai",
+    "description": "Rerum aut dolor explicabo deserunt explicabo aspernatur. Earum est optio ipsam aut veniam assumenda. Et aperiam velit sit provident ipsum.",
+    "for_sale": false,
+    "for_rent": true,
+    "sold": true,
+    "price": 803979,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Apartment",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "area": 106,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Chiang Mai",
+      "street": "24714 Moriah Throughway Apt. 498"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 48,
+    "title": "1 bedroom Villa for sale in Samut Prakan",
+    "description": "Iste et at voluptates rerum molestiae assumenda molestiae. Repellendus in assumenda eaque libero vel. Aut a aliquam soluta et ipsa aut rerum.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 416246,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Villa",
+    "bedrooms": 1,
+    "bathrooms": 5,
+    "area": 101,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Samut Prakan",
+      "street": "4611 Nikita Pine"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  },
+  {
+    "id": 64,
+    "title": "5 bedroom Townhouse for sale in Surat Thani",
+    "description": "Perferendis assumenda sequi dolorem. Pariatur deserunt beatae quo eligendi facere. Quos cum sapiente id ut minus.",
+    "for_sale": true,
+    "for_rent": false,
+    "sold": false,
+    "price": 394116,
+    "currency": "THB",
+    "currency_symbol": "\u0e3f",
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "area": 33,
+    "area_type": "sqm",
+    "geo": {
+      "country": "Thailand",
+      "province": "Surat Thani",
+      "street": "575 Eldridge Court"
+    },
+    "photos": {
+      "thumb": "https:\/\/placeimg.com\/350\/200\/arch",
+      "search": "https:\/\/placeimg.com\/720\/480\/arch",
+      "full": "https:\/\/placeimg.com\/1280\/720\/arch"
+    }
+  }
+]
