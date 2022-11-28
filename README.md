@@ -1,7 +1,7 @@
 # FazWaz - Full Stack Developer Test
 Thank you for taking the time to do our full stack technical test for FazWaz. It consists of two parts:
 - [A coding test](#task)
-- [A few technical questions](#story)
+- [A few technical questions](#tech)
 
 We request you fork this repo and place the latest version of [Laravel](https://laravel.com/docs/9.x) inside the `html` folder provided. This test is about accessing your critical thinking and technical ability, so a full git log showing work done is important.
 
@@ -20,7 +20,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 - Forked repo with full Git log of your process.
 - The design of the frontend is not important and is not judged in this test
 
-## <a name="story">User Story</a>
+## User Story
 Given **I am a user running the application,** when **I load the index page** then **I want to see a list of 25 properties that are for sale and unsold**.
 
 ### Acceptance Criteria
@@ -31,7 +31,7 @@ Given **I am a user running the application,** when **I load the index page** th
 - There should be a search box to query the database for properties based on title or location.
 - Dynamic routing with **provinces** should result in a list of properties provided in `properties.json` file (eg. https://localhost/bangkok/) otherwise 404.
 
-## Technical Questions
+## <a name="tech">Technical Questions</a>
 Please answer the following questions in a markdown file called `Answers to technical questions.md`.
 
 - How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
