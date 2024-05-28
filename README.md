@@ -1,41 +1,68 @@
-# FazWaz - Full Stack Developer Test
-Thank you for taking the time to do our full stack technical test for FazWaz. It consists of two parts:
-- [A coding test](#task)
-- [A few technical questions](#tech)
+# Senior Full Stack Developer Test - FazWaz
 
-We request you fork this repo and place the latest version of [Laravel](https://laravel.com/docs/9.x) inside the `html` folder provided. This test is about accessing your critical thinking and technical ability, so a full git log showing work done is important.
+Thank you for taking the time to do our full stack technical test for [FazWaz](https://www.fazwaz.com). It consists of two parts:
+- [A coding test](#task-requirements)
+- [A few technical questions](#technical-questions)
+
+We request you fork this repo and place the latest version of [Laravel](https://laravel.com/docs/9.x) inside the `html` folder provided. This test is about accessing your critical thinking and technical ability, so a full git log showing work done is important. 
+
+***Any submissions without a git log or large commits will be rejected.***
 
 ## Coding Test
 You will use the `properties.json` provided in this repo to get property information. 
 
-Develop a frontend and backend application that consumes the provided JSON feed. Implement basic category, searching and pagination.
+Develop a frontend and backend application that consumes the provided JSON feed. Implement basic sorting, searching and pagination.
 
-## <a name="task">Task requirements</a>
+### Task requirements
 
-Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met. However, we understand people have busy lives and would guide you to spend no more than 3 hours on a submission. We also take into consideration the `Answers to technical questions.md` file and what you would like to have added if you had more time. You should look at this as the complete solution, it's much quicker to explain what you would like to have done than code it.
+Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met. However, we understand people have busy lives and would guide you to spend no more than 3 hours on a submission. 
 
-- Please complete the user story below.
+We also take into consideration the `Answers.to.technical.questions.md` file and what you would like to have added if you had more time. Think of this as a complete solution. Clearly documenting your approach and desired features is just as valuable as coding them, as it demonstrates your communication and planning skills.
+
+**Please thoroughly review the requirements and User Story below to ensure successful completion of this test.**
+
 - Your code should be deployable via Laravel Sail (aka Docker).
-- You **must** include Unit tests.
+- You **must** include PHP Unit tests.
 - Forked repo with full Git log of your process.
-- The design of the frontend is not important and is not judged in this test
-- A database that stores the JSON file in a well-formed way, with appropriate indexes.
-- A README to explain how to boot and run the end result.
+- Frontend design is not a focus and won't be judged.
+- Store the JSON data in a well-structured database with appropriate indexes.
+- Provide a detailed `README.md` explaining how to deploy and run the application.
 
-## User Story
-Given **I am a user running the application,** when **I load the index page** then **I want to see a list of 25 properties that are for sale and unsold**.
+#### User Story
 
-### Acceptance Criteria
+<ins>Given</ins> I am a user visiting your application, </br>
+<ins>When</ins> I load the index page, </br>
+<ins>Then</ins> I should see a list of 25 properties that are for sale and unsold.</br>
+<ins>And</ins>, I should be able to:
 
-- Frontend should be coded in Vue.js
-- The properties should include all the relevant data provided in the `properties.json` file.
-- There should be pagination links at the bottom to navigate further down the records.
-- There should be a search box to query the database for properties based on title or location.
-- Dynamic routing with **provinces** should result in a list of properties provided in `properties.json` file (eg. https://localhost/bangkok/) otherwise 404.
+- Search for properties based on title and location (combined or individually).
+- Sort properties by various criteria (price, date listed, etc.).
+- Navigate through paginated results easily.
 
-## <a name="tech">Technical Questions</a>
-Please answer the following questions in a markdown file called `Answers to technical questions.md`.
+#### Acceptance Criteria #1
 
-- How long did you spend on the coding test? What would you add to your solution if you had more time? If you didn't spend much time on the coding test then use this as an opportunity to explain what you would add.
-- What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
-- How would you track down a performance issue in production? Have you ever had to do this?
+- Frontend built with Vue.js or React.
+- Display all relevant property information from the `properties.json` file.
+- Implement pagination with clear links to navigate through results (25 properties per page).
+- Include a search box for filtering properties by title and location (consider using string matching and location matching algorithms).
+- Allow sorting of properties by price (ascending/descending) and date listed (newest first/oldest first).
+- Implement dynamic routing that displays properties based on selected provinces (e.g., /bangkok/). Handle non-existent provinces with a 404 error page.
+
+#### Acceptance Criteria #2
+
+Extensive unit tests utilizing PHP Unit to cover the following functionalities:
+
+- `/api/properties` endpoint functionality to retrieve a list of properties.
+- Pagination logic, ensuring only 25 properties are returned per request.
+- Search functionality with unit tests covering filtering by title, location, and combined search criteria.
+- Sorting functionality with unit tests verifying sorting by price and date listed.
+- Error handling for invalid search queries, missing data, and unexpected database errors.
+
+## Technical Questions
+
+The following questions **must** be in a markdown file called `Answers.to technical.questions.md` that's commited to your forked repo.
+
+- How long did you spend on the coding test? What additional features would you consider implementing if you had more time?
+- Describe a security best practice you would implement in this application to protect the API.
+- Explain how you would approach optimizing the performance of the API for handling large amounts of property data.
+- How would you track down a performance issue in production? Have you ever had to do this? If so, please describe the experience.
