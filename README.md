@@ -1,7 +1,7 @@
 # Senior Full Stack Developer Test - FazWaz
 
 Thank you for taking the time to do our full stack technical test for [FazWaz](https://www.fazwaz.com). It consists of two parts:
-- [A coding test](#task-requirements)
+- [A coding test](#coding-test)
 - [A few technical questions](#technical-questions)
 
 We request you fork this repo and place the latest version of [Laravel](https://laravel.com/docs/9.x) inside the `html` folder provided. This test is about accessing your critical thinking and technical ability, so a full git log showing work done is important. 
