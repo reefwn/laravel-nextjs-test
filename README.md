@@ -15,7 +15,7 @@ Develop a frontend and backend application that consumes the provided JSON feed.
 
 ### Task requirements
 
-Feel free to spend as much or as little time on the exercise as you like as long as the following requirements have been met. However, we understand people have busy lives and would guide you to spend no more than 3 hours on a submission. 
+We value your time and understand busy schedules. Focus on delivering a solution that meets the requirements efficiently. A 3-hour timeframe is a good target for most candidates.
 
 We also take into consideration the `Answers.to.technical.questions.md` file and what you would like to have added if you had more time. Think of this as a complete solution. Clearly documenting your approach and desired features is just as valuable as coding them, as it demonstrates your communication and planning skills.
 
@@ -28,7 +28,7 @@ We also take into consideration the `Answers.to.technical.questions.md` file and
 - Store the JSON data in a well-structured database with appropriate indexes.
 - Provide a detailed `README.md` explaining how to deploy and run the application.
 
-#### User Story
+### User Story
 
 <ins>Given</ins> I am a user visiting your application, </br>
 <ins>When</ins> I load the index page, </br>
@@ -39,7 +39,7 @@ We also take into consideration the `Answers.to.technical.questions.md` file and
 - Sort properties by various criteria (price, date listed, etc.).
 - Navigate through paginated results easily.
 
-#### Acceptance Criteria #1
+### Acceptance Criteria #1
 
 - Frontend built with Vue.js or React.
 - Display all relevant property information from the `properties.json` file.
@@ -48,7 +48,7 @@ We also take into consideration the `Answers.to.technical.questions.md` file and
 - Allow sorting of properties by price (ascending/descending) and date listed (newest first/oldest first).
 - Implement dynamic routing that displays properties based on selected provinces (e.g., /bangkok/). Handle non-existent provinces with a 404 error page.
 
-#### Acceptance Criteria #2
+### Acceptance Criteria #2
 
 Extensive unit tests utilizing PHP Unit to cover the following functionalities:
 
