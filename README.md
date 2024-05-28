@@ -1,4 +1,4 @@
-# Senior Full Stack Developer Test - FazWaz
+# Full Stack Developer Test - FazWaz
 
 Thank you for taking the time to do our full stack technical test for [FazWaz](https://www.fazwaz.com). It consists of two parts:
 - [A coding test](#coding-test)
